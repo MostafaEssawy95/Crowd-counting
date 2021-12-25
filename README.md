@@ -1,3 +1,3 @@
 # Crowd-counting
 
-the dataset used in shanghai tech dataset
+the dataset used is Shanghaitech dataset
